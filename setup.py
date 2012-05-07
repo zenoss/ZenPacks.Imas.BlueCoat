@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.Imas.BlueCoat'
 VERSION = '1.0'
 AUTHOR = 'Wouter D\'Haeseleer'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Imas']
 PACKAGES = ['ZenPacks', 'ZenPacks.Imas', 'ZenPacks.Imas.BlueCoat']
 INSTALL_REQUIRES = []
